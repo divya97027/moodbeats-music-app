@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Mahiye Jinna Sohna",
+    "artist": "Darshan Raval",
+    "duration": "3:45",
+    "image": "/assets/card2img.jpeg",
+    "category": "trending",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Mere Paas Tum Ho",
+    "artist": "Rahat Fateh Ali Khan",
+    "duration": "4:12",
+    "image": "/assets/card3img.jpeg",
+    "category": "trending",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Top 50 - Global",
+    "artist": "Various Artists",
+    "duration": "3:33",
+    "image": "/assets/card1img.jpeg",
+    "category": "featured",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "LEO",
+    "artist": "Anirudh Ravichander",
+    "duration": "3:20",
+    "image": "/assets/card4img.jpeg",
+    "category": "trending",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Top Songs India",
+    "artist": "Various Artists",
+    "duration": "3:10",
+    "image": "/assets/card6img.jpeg",
+    "category": "featured",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Kesariya",
+    "artist": "Arijit Singh",
+    "duration": "4:28",
+    "image": "/assets/kesariya.jpg",
+    "category": "recent",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Raataan Lambiyan",
+    "artist": "Jubin Nautiyal",
+    "duration": "3:52",
+    "image": "/assets/Raataan-Lambiyan.jpg",
+    "category": "recent",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Teri Baaton Mein",
+    "artist": "Asees Kaur",
+    "duration": "3:15",
+    "image": "/assets/teri-baaton-mein.jpg",
+    "category": "recent",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Dance Ka Bhoot",
+    "artist": "Arijit Singh",
+    "duration": "3:45",
+    "image": "/assets/Dance-Ka-Bhoot.jpg",
+    "category": "recent",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Kuch Kuch Hota Hai",
+    "artist": "Udit Narayan",
+    "duration": "5:30",
+    "image": "/assets/kkhh.jpg",
+    "category": "90s",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Tujhe Dekha To",
+    "artist": "Kumar Sanu",
+    "duration": "5:45",
+    "image": "/assets/tujhe dekha to.jpg",
+    "category": "90s",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Tum Par Hum Hai Atke Yaara",
+    "artist": "Kumar Sanu",
+    "duration": "4:49",
+    "image": "/assets/tum par atke.jpg",
+    "category": "90s",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Jaane Kahan Gaya Ji",
+    "artist": "Mohammed Rafi",
+    "duration": "4:10",
+    "image": "/assets/jaane kahan.jpg",
+    "category": "90s",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Jai Shri Ram",
+    "artist": "Devotional",
+    "duration": "4:10",
+    "image": "/assets/jai shrre ram.jpg",
+    "category": "bhakti",
+    "audioUrl": "assets/kontraa-ram-bhajan-hindu-festive-music-446987.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Hanuman Chalisa",
+    "artist": "Hariharan",
+    "duration": "7:15",
+    "image": "/assets/hanuman chalisajpg.jpg",
+    "category": "bhakti",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Om Namah Shivaya",
+    "artist": "S.P. Balasubrahmanyam",
+    "duration": "6:30",
+    "image": "/assets/om namah shivaay.jpg",
+    "category": "bhakti",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Maa Durga Aarti",
+    "artist": "Anuradha Paudwal",
+    "duration": "5:20",
+    "image": "/assets/maa durga.jpg",
+    "category": "bhakti",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  },
+  {
+    "id": 18,
+    "title": "Old Is Gold Mix",
+    "artist": "Various Artists",
+    "duration": "4:00",
+    "image": "/assets/oig.jpg",
+    "category": "retro",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Retro Superhits",
+    "artist": "Various Artists",
+    "duration": "3:55",
+    "image": "/assets/retro superhit.jpg",
+    "category": "retro",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+  },
+  {
+    "id": 20,
+    "title": "Jaane Kahan Gaya Ji",
+    "artist": "Mohammed Rafi",
+    "duration": "4:22",
+    "image": "/assets/jaane kahan.jpg",
+    "category": "retro",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+  }
+]
