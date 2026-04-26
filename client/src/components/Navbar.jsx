@@ -19,7 +19,7 @@ function Navbar({ searchQuery, onSearch }) {
         <i className="fa-solid fa-magnifying-glass" style={{ opacity: 0.6, marginRight: '0.5rem', fontSize: '0.85rem' }}></i>
         <input
           type="text"
-          placeholder="Kya sunna chahte ho?"
+          placeholder="What do you want to listen to?"
           value={searchQuery}
           onChange={(e) => onSearch(e.target.value)}
           style={{

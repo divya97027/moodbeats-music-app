@@ -45,13 +45,13 @@ function Sidebar() {
             boxShadow: '0 8px 32px rgba(0,0,0,0.5)'
           }}>
             <h3 style={{ margin: '0 0 1.5rem', fontSize: '1.3rem' }}>
-              Naya Playlist Banao
-            </h3>
+  Create New Playlist
+</h3>
 
             {/* Playlist name input */}
             <input
               type="text"
-              placeholder="Playlist ka naam likho..."
+              placeholder="Enter playlist name..."
               value={playlistName}
               onChange={(e) => setPlaylistName(e.target.value)}
               onKeyDown={(e) => e.key === 'Enter' && handleCreate()}
