@@ -101,7 +101,14 @@ moodbeats-music-app/
 
 ## 🎨 Screenshots
 
-> Coming soon...
+### 🏠 Home Page
+![Home](./screenshots/home.png)
+
+### 🔥 Trending & Categories
+![Trending](./screenshots/trending.png)
+
+### 🎵 Music Player
+![Player](./screenshots/bhajan.png)
 
 ---
 
