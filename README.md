@@ -1,25 +1,21 @@
-﻿# 🎵 MoodBeats — Music Streaming App
+﻿# 🎵 MoodBeats — Mood-Based Music Streaming App
 
-A modern music streaming web application built with React, Node.js, and Express.
+A full-stack music streaming web app with mood-based categories.
 
-![MoodBeats](https://img.shields.io/badge/MoodBeats-Music%20Streaming-8b5cf6?style=for-the-badge&logo=music)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+🔗 **Live Demo:** [moodbeats.vercel.app](https://your-vercel-link.vercel.app)
 
----
+## 🛠️ Tech Stack
+| Layer | Tech |
+|-------|------|
+| Frontend | React (Vite) |
+| Backend | Node.js + Express |
+| API | Jamendo Music API |
+| Deployment | Vercel |
 
 ## ✨ Features
-
-- 🎵 **Music Player** — Play, Pause, Next, Previous, Shuffle, Repeat
-- 🔍 **Search** — Real-time song and artist search
-- 📂 **Categories** — Recently Played, Trending, New Releases, 90s Hits, Bhakti & Bhajan, Retro Classics
-- 🌍 **Jamendo API** — Copyright-free live music streaming
-- 💜 **Liked Songs & Playlists** — Create and manage your playlists
-- 🎨 **Premium UI** — Deep purple/blue gradient design
-- 📱 **Responsive** — Works on all screen sizes
-
+- Play / Pause / Next / Prev / Shuffle / Repeat
+- Mood-based categories: Trending, 90s Hits, Bhakti, Retro
+- Search, Liked Songs, Playlists
 ---
 
 ## 🛠️ Tech Stack
